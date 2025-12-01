@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/surendra-portfolio.com/static/css/main.ff49f16a.css",
+    "main.js": "/surendra-portfolio.com/static/js/main.612ec5f8.js",
+    "index.html": "/surendra-portfolio.com/index.html",
+    "main.ff49f16a.css.map": "/surendra-portfolio.com/static/css/main.ff49f16a.css.map",
+    "main.612ec5f8.js.map": "/surendra-portfolio.com/static/js/main.612ec5f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff49f16a.css",
+    "static/js/main.612ec5f8.js"
+  ]
+}
